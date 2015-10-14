@@ -1,0 +1,26 @@
+{
+  "name": "hubot-app-reviews",
+  "version": "0.0.1",
+  "description": "A hubot/slack plugin that scans the app store pages for app reviews and shows them in a slack channel based on sentiment and star ratings.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etiennemarais/hubot-app-reviews.git"
+  },
+  "keywords": [
+    "hubot",
+    "slack",
+    "app",
+    "reviews",
+    "sentiment"
+  ],
+  "author": "Etienne Marais <etienne.marais@olx.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/etiennemarais/hubot-app-reviews/issues"
+  },
+  "homepage": "https://github.com/etiennemarais/hubot-app-reviews#readme"
+}
